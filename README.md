@@ -10,10 +10,8 @@ I am a Industrial engineer and Msc on Operation Researh who enjoys challenges an
 
 📫 How to reach me: ignasineira@outlook.com/ ignasineira96@gmail.com
 
-😄 Pronouns: 
+⚡ Fun fact: not so funny
 
-⚡ Fun fact: ??? not so fun
-
-:trophy: Recently part of the winning team of the [franz edelman award 2022](https://www.uchile.cl/noticias/185180/investigadores-del-isci-ganan-franz-edelman-award-2022), [INFORMS] (https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Franz-Edelman-Award)
+:trophy: Recently part of the winning team of the [franz edelman award 2022](https://www.uchile.cl/noticias/185180/investigadores-del-isci-ganan-franz-edelman-award-2022), [INFORMS](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Franz-Edelman-Award)
 
 
