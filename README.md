@@ -5,6 +5,7 @@ I am a Industrial engineer and Msc on Operation Researh who enjoys challenges an
  🔭 I’m currently working on **analytics and queen models policy making**  in  health.
 
 🌱 I’m currently learning Bayes Data Analysis and confidence interval on ml predicction 
+
 📫 How to reach me: ignasineira@outlook.com/ ignasineira96@gmail.com
 
 ⚡ Programming skills: Python (pandas, numpy, geopandas,skearlearn,tensorflow,scipy,PyTorch) 
